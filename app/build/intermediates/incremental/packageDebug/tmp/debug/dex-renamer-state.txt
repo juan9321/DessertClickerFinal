@@ -1,0 +1,4 @@
+#Fri Mar 10 16:47:25 BRT 2023
+base.0=C\:\\Users\\dti\\Desktop\\DessertClickerFinal\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
